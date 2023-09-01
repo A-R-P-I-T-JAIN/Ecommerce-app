@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55117590.css",
+    "main.js": "/static/js/main.24233787.js",
+    "static/media/speaker_cat.png": "/static/media/speaker_cat.37465d843210af8ea545.png",
+    "static/media/headphone_cat.png": "/static/media/headphone_cat.c9d0bba29effa04903ba.png",
+    "static/media/mobile_cat.png": "/static/media/mobile_cat.535a89b1fb8a79736fe7.png",
+    "static/media/camera_cat.png": "/static/media/camera_cat.ffd0e9e433b588ee88f0.png",
+    "static/media/watch_cat.png": "/static/media/watch_cat.21a1965e80f3d601d77c.png",
+    "static/media/laptop_cat.png": "/static/media/laptop_cat.cf2d6b62a077f794ee21.png",
+    "static/media/watch.png": "/static/media/watch.1214e0047670c2c934bf.png",
+    "static/media/banner3.jpg": "/static/media/banner3.a12c969dabe0d2b38563.jpg",
+    "static/media/iphone.png": "/static/media/iphone.78bbd7449c124af9b557.png",
+    "static/media/laptop.png": "/static/media/laptop.8301c6835f11c98acff7.png",
+    "static/media/1.jpg": "/static/media/1.7bcf6daf2753fab04818.jpg",
+    "static/media/logo.png": "/static/media/logo.344100bd13ec290b27f6.png",
+    "index.html": "/index.html",
+    "main.55117590.css.map": "/static/css/main.55117590.css.map",
+    "main.24233787.js.map": "/static/js/main.24233787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55117590.css",
+    "static/js/main.24233787.js"
+  ]
+}
